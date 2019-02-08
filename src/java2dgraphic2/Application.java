@@ -61,7 +61,7 @@ public class Application extends javax.swing.JFrame {
     private void jButtonPokreniActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonPokreniActionPerformed
         Java2DGraphic2.createAndShowGUI();
         //**
-        //**11
+        //**11kkkk
     }//GEN-LAST:event_jButtonPokreniActionPerformed
 
     /**
