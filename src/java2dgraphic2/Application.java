@@ -10,6 +10,7 @@ package java2dgraphic2;
  * @author Milan Bozic
  */
 public class Application extends javax.swing.JFrame {
+    //blabla
 
     /**
      * Creates new form Application
